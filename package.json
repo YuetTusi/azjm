@@ -1,6 +1,6 @@
 {
   "name": "azjm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "快速加密文本文件",
   "main": "index.js",
   "bin": "bin/www",
