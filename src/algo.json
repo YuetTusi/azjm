@@ -14,7 +14,6 @@
     "aes-256-cfb",
     "aes-256-ctr",
     "aes-256-ecb",
-    "aes-256-gcm",
     "aes-256-ofb",
     "des-cbc",
     "des-ecb",
