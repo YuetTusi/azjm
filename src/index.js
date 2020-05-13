@@ -42,7 +42,7 @@ inquirer.prompt({
     }
 }).then((result) => {
     if (program.unenc) {
-        return writeFile(path.join(cwd, 'conf-unencrypt.json'), JSON.stringify({ result }));
+        return writeFile(path.join(cwd, 'conf-unencrypt.json'), JSON.stringify(result));
     } else {
         return writeFile(path.join(cwd, program.target), result);
     }
