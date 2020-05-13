@@ -12,6 +12,7 @@
   "dependencies": {
     "commander": "^5.1.0",
     "inquirer": "^7.1.0",
+    "js-yaml": "^3.13.1",
     "ora": "^4.0.4"
   }
 }

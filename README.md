@@ -5,7 +5,7 @@
 ### 安装
 
 ```txt
-npm install enc -g
+npm install azjm -g
 ```
 
 ### 使用
@@ -13,5 +13,5 @@ npm install enc -g
 进入所在目录，指定加密的文件和生成的文件名：
 
 ```txt
-enc -f doc.txt -t new.bak
+azjm -f doc.txt -t new.bak
 ```
